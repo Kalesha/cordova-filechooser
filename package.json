@@ -1,0 +1,36 @@
+{
+  "name": "k-filechooser",
+  "version": "0.0.0",
+  "description": "File Chooser for Cordova/Phonegap",
+  "cordova": {
+    "id": "com.kfilechooser",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kalesha/cordova-filechooser.git"
+  },
+  "keywords": [
+    "cordova",
+    "filechooser",
+    "android",
+    "filepicker",
+    "phonegap",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kalesha/cordova-filechooser"
+  },
+  "homepage": "https://github.com/Kalesha/cordova-filechooser#readme"
+}
