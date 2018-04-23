@@ -1,3 +1,6 @@
+This project hasbeen forked from https://github.com/don/cordova-filechooser to make it available for npm install. All credit goes to Don Coleman(https://github.com/don).
+
+
 Cordova FileChooser Plugin 
 
 Requires Cordova >= 2.8.0
